@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://akirabox.com/download/eyJpdiI6IjFtcFR4Szg2M0dGdGdmWDBlMkRXbUE9PSIsInZhbHVlIjoiMjM3VFExdW9rYk41OEdIY1dQUTIranVKWDBtaEFCY3l3N3dRU3NaREw5dz0iLCJtYWMiOiIyMzUyOWYzMzJkOTEyZjk5NjY2Nzc4ZTBkOWI5OTBjNWYzNWFkYzM2MzJlODAyMWQ4NThkNzFmNjg4ZjZhYzg5IiwidGFnIjoiIn0=/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Game-%285.05+%29-PS4.pkg?expiration=1740704409&signature=9a430985a0fcceb8858334645a03da1b7aaf654a76ae3e33c090414340e0ee01": {
+      "title_id": "CUSA00419",
+      "region": "ALL",
+      "name": "Grand.Theft.Auto.V",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "4.00",
+      "cover_url": "https://m.media-amazon.com/images/I/81htlTqEckL._AC_UF1000,1000_QL80_.jpg"
+    },
+    "http://10.0.0.59:8000/PKGs/MC.pkg": {
+      "title_id": "CUSA00001",
+      "region": "ALL",
+      "name": "Minecraft",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "4.00",
+      "cover_url": "https://m.media-amazon..."
+    }
+  }
+}
