@@ -20,8 +20,14 @@
       "release": "2015",
       "min_fw": "5.05+",
       "cover_url": "https://m.media-amazon.com/images/I/81htlTqEckL._AC_UF1000,1000_QL80_.jpg"
-    }
-  }
-}
-
-    
+    },
+        "https://akirabox.com/download/eyJpdiI6IlVSdE0yWHhLNHJLc1JGNnNqSFZFK0E9PSIsInZhbHVlIjoiYUh4ZWhZN3ZYZzZhY1E5S1hub0pnL25DWXhCTFNXV1pUZGo5OGM3YlZ6cz0iLCJtYWMiOiJmY2NhZWZmYjU5MDU0Y2Y3NjU2NzEzZTA2NTM1MThhYzMyYWE0ZmM0YmIyMzUzZDI5ZmI1N2U0MmExMzRmZmU4IiwidGFnIjoiIn0=/%5BSPSX%5D-GTA.San%20Andreas.TDE-CUSA26618-USA-Game-v1.07-PS4.pkg?expiration=1740770334&signature=f40a420cbc71eba22d8db12b8c145490b2132e08e8cceb07d238775ae7a3e91b": {
+      "title_id": "CUSA26618",
+      "region": "USA",
+      "name": "GTA San Andreas TDE",
+      "size": 4541927915 ,
+      "version": "1.07",
+      "release": "2023",
+      "min_fw": "5.05+",
+      "cover_url": ""
+    },
