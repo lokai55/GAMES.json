@@ -1,16 +1,5 @@
 {
-  "DATA": {
-    "https://upload.vikingfile.com/imJXd3MtVV/GAME-Alone.With.You.PS4-CUSA04792.pkg": {
-      "title_id": "CUSA04792",
-      "region": "EUR",
-      "name": "ALONE WITH YOU",
-      "size": 1005458554 ,
-      "version": "1.00",
-      "release": "2016",
-      "min_fw": "5.05+",
-  
-    "cover_url": "https://1.bp.blogspot.com/-HqfiUv2lyiE/X4Asijf1WsI/AAAAAAAAG-c/IutHceEbMcAoKhvBQrLvqjVk2_62FfbLgCLcBGAsYHQ/s0/1.jpg"
-    },
+  "DATA":{
     "https://rp.vikingfile.com/download/95RjgUnp7d/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Game-%285.05%2B%29-PS4.pkg": {
       "title_id": "CUSA00419",
       "region": "USA",
