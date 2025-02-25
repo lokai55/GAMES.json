@@ -1,24 +1,54 @@
 {
-  "DATA":{
-    "https://rp.vikingfile.com/download/95RjgUnp7d/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Game-%285.05%2B%29-PS4.pkg": {
-      "title_id": "CUSA00419",
-      "region": "USA",
-      "name": "Grand Theft Auto V",
-      "size": 41678080000,
-      "version": "1.00",
-      "release": "2013",
-      "min_fw": "6.72",
-      "cover_url": "https://m.media-amazon.com/images/I/81htlTqEckL._AC_UF1000,1000_QL80_.jpg"
+  "DATA": {
+    "https://akirabox.com/download/eyJpdiI6ImRvSkZoVTBIU2RreVBLQzN0aGVIN2c9PSIsInZhbHVlIjoiVEtBK3UvRjJ5UHJRTjVrOXcyVlR5dGJ4bmdVMFRMZjhYd2N1bW8wTzl2cz0iLCJtYWMiOiIxOTNmMWE3OTEwNDQyZjU1NzAyNTU0YWY1ZmVkNGNiNzcyYWY4ZDJmY2U1OTY0ZWVkOWNiMTQyODA1MTYwNmJiIiwidGFnIjoiIn0=/EP0102-CUSA31498_00-A0100-V0118-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA31498",
+      "region": "EUR",
+      "name": "Street Fighter 6",
+      "size": 53000000000,
+      "version": "1.18",
+      "release": "02-19-2025",
+      "min_fw": "9.0",
+      "cover_url": "https://i.postimg.cc/RZWwbpXc/1-2.jpg"
     },
-        "https://akirabox.com/download/eyJpdiI6IlVSdE0yWHhLNHJLc1JGNnNqSFZFK0E9PSIsInZhbHVlIjoiYUh4ZWhZN3ZYZzZhY1E5S1hub0pnL25DWXhCTFNXV1pUZGo5OGM3YlZ6cz0iLCJtYWMiOiJmY2NhZWZmYjU5MDU0Y2Y3NjU2NzEzZTA2NTM1MThhYzMyYWE0ZmM0YmIyMzUzZDI5ZmI1N2U0MmExMzRmZmU4IiwidGFnIjoiIn0=/%5BSPSX%5D-GTA.San%20Andreas.TDE-CUSA26618-USA-Game-v1.07-PS4.pkg?expiration=1740770334&signature=f40a420cbc71eba22d8db12b8c145490b2132e08e8cceb07d238775ae7a3e91b": {
-      "title_id": "CUSA26618",
+    "https://akirabox.com/download/eyJpdiI6InNXbElYcSt2VElIaitvWlZ3N2ZUTkE9PSIsInZhbHVlIjoiUXBYQUNjYU1xKy9Ga251YnJWODBJY3MwV2wwK2FqbTBxR2FTSXVINWJZST0iLCJtYWMiOiI3NzFhZTZhYWE4YzNkOWU5ZDdhY2YwZDEwYjExYzYwOWRhNjFiNGQ1Yzg0YzA0ZWFhODYzYzVmOTg1MGZlOTU5IiwidGFnIjoiIn0=/EP3877-CUSA31638_00-A0100-V0101-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA31638",
+      "region": "EUR",
+      "name": "Oxide Room 104",
+      "size": 6882814464,
+      "version": "1.0",
+      "release": "06-18-2025",
+      "min_fw": "11.00",
+      "cover_url": "https://i.postimg.cc/Hx74szKp/1-2.jpg"
+    },
+    "https://akirabox.com/download/eyJpdiI6Inh0ZXFGNmJwajY5d01TK1ZDZklWQmc9PSIsInZhbHVlIjoiMnBCZE9vcThrV2cybmZVUUkzVWxxSEFmbno5RW5FOXlGMzVxMzhMY3RnMD0iLCJtYWMiOiIyZTM5MWVjMTc3ZDZmMWM5ODdhODVlMTIxMjRiN2QxNzYxY2I3YjM2N2RiYjNhZjkxMzQ1NzliNDBkYzE4ZWU4IiwidGFnIjoiIn0=/UP4363-CUSA44067_00-A0100-V0100-TRIFECTA-TheWorldismine-CyB1K-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA44067",
       "region": "USA",
-      "name": "GTA San Andreas TDE",
-      "size": 4541927915 ,
-      "version": "1.07",
-      "release": "2023",
-      "min_fw": "5.05+",
-      "cover_url": ""
+      "name": "Sniper Elite Resistance",
+      "size": 4884425,
+      "version": "1.0",
+      "release": "02-22-2025",
+      "min_fw": "11.00",
+      "cover_url": "https://i.postimg.cc/grbW1KQz/2-3.jpg"
+    },
+    "https://akirabox.com/download/eyJpdiI6IjI4SFFCbDRnVXJjRzFMTEVUS2lOZEE9PSIsInZhbHVlIjoiSDRFYzBqRmhsckhvRGEzU3hpS1lvRDJTYmVIcVdjMm5XcUx6TEJ5SzE3dz0iLCJtYWMiOiI4NTYyNGY5OWZiYWZiMWE3ZGMzM2Y3ZjBjNTQxMzIyZGZjNGU0ZmJjYjQ0ZTRiMDM1NGI4MjA3ZjNiZjYyNjRmIiwidGFnIjoiIn0=/%5BSPSX%5D-Crysis.Remastered-CUSA18671-EUR-Game-Update-v1.03-PS4.pkg": {
+      "title_id": "CUSA18671",
+      "region": "EUR",
+      "name": "Crysis Remastered",
+      "size": 12749232128,
+      "version": "1.3",
+      "release": "02-12-2025",
+      "min_fw": "9.00",
+      "cover_url": "https://i.postimg.cc/Nj91xpsR/3.jpg"
+    },
+    "https://akirabox.com/download/eyJpdiI6IjgrY0JCckNjUnVyQys0cUtheFdWWkE9PSIsInZhbHVlIjoidllna3pTdTUyeEJ4T0Z5RFpneWpjUXB1VU9qUlprSWJydkpvUXh6L0NmMD0iLCJtYWMiOiI5OGY5ODY1NTQwNjI4OWFhZWU2ZTM1ZWM4OWZjMjcyN2VkOGNiNjZlZTgyMDNkOTJiMmJhYjk5NWE4NWIyNjdhIiwidGFnIjoiIn0=/DreadOut%202%20-%20%5BCUSA-29106%5D%20%5BAyakalounge%5D%20%5B+Mods%5D-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA29106",
+      "region": "EUR",
+      "name": "DreadOut 2",
+      "size": 10474505728,
+      "version": "1.3",
+      "release": "02-19-2025",
+      "min_fw": "9.00",
+      "cover_url": "https://i.postimg.cc/vHzQNsBs/2-7.jpg"
     }
   }
 }
