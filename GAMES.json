@@ -49,7 +49,7 @@
       "release": "02-19-2025",
       "min_fw": "9.00",
       "cover_url": "https://i.postimg.cc/vHzQNsBs/2-7.jpg"
-    },
+   },
     "https://rp.vikingfile.com/download/X2IPaPDPaM/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Game-%285.05%2B%29-PS4.pkg": {
       "title_id": "CUSA00419",
       "region": "USA",
@@ -59,4 +59,6 @@
       "release": "02-16-2025",
       "min_fw": "5.05+",
       "cover_url": "gjhuff"
-    
+    }
+  }
+}
