@@ -49,7 +49,7 @@
       "release": "02-19-2025",
       "min_fw": "9.00",
       "cover_url": "https://i.postimg.cc/vHzQNsBs/2-7.jpg"
-   },
+    },
     "https://akirabox.com/download/eyJpdiI6IkFkaHRlN1Y5STF2Mmp4Ym5KYnBFb1E9PSIsInZhbHVlIjoiRUdmS21XckI4S1YvK1VtMHdTdEllZTlkUkhGeHNGVStqUTdGOS9SRWpGaz0iLCJtYWMiOiJhNTZmMDQ1MDJhNzE5NmUwNDg5ZDQ1ZTgzZmFhMTQ0NGE4MGFmY2I3YzE5YTYzMDZmOTBmY2EwZWM1NzY1ZGZiIiwidGFnIjoiIn0=/%5BSPSX%5D-Grand.Theft.Auto.V-CUSA00419-USA-Game-%285.05+%29-PS4.pkg": {
       "title_id": "CUSA00419",
       "region": "USA",
@@ -58,7 +58,17 @@
       "version": "1.0",
       "release": "02-16-2025",
       "min_fw": "5.05+",
-      "cover_url": "gjhuff"
+      "cover_url": "https://m.media-amazon.com/images/I/81htlTqEckL._AC_UF1000,1000_QL80_.jpg"
+    },
+    "https://www.mediafire.com/file/rc62zjmalasa496/UP9000-SLES53887_00-SLES538860000001-A0100-V0100.pkg": {
+      "title_id": "SLES53887",
+      "region": "ps2 USA",
+      "name": "Black ps2 on ps4",
+      "size": 3944759192,
+      "version": "1.0",
+      "release": "02-16-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1evyCrYQTnskM3tbce-j9llePr8f6cDK9EVRc6ahuBr5yRLFdpOPZGlSn2yEou9GIUWBOkMpMIk2YQH-AW5O8DtwWHW8d-ob8Alreru83u8u5RSEpfjvisuAX2JSZHZAns5GEsDI9Dc/s1600/black.jpg"
     }
   }
 }
